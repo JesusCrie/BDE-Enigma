@@ -17,7 +17,7 @@ int main(int argc, char const *argv[]) {
 		&& pass[4] == pass[1] - 4
 		&& pass[0] >= '0' && pass[0] <= '9') {
 
-		puts("I guess you win ! If you enjoyed that kind of challenges, check out https://crackmes.one/");
+		puts("I guess you win !");
 		return 0;
 	}
 
